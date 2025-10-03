@@ -1,6 +1,7 @@
 Python Version Python 3.7+
 
 Files needed to run my code:
+
     - puzzle1.txt file
     - puzzle2.txt file
     - puzzle3.txt file
@@ -8,12 +9,14 @@ Files needed to run my code:
     - puzzleSolver.py
 
 For data confirmation, you can use the following files to crosscheck with my PDF report:
+
     - N3D10.txt
     - N3D20.txt
     - N4D10.txt
     - N4D20.txt
 
 How to run my code:
+
     - python puzzleSolver.py <A> <N> <H> <INPUT_FILE_PATH> <OUTPUT_FILE_PATH>
         - A: the algorithm (A=1 for A* and A=2 for RBFS)
         - N: the size of puzzle (N=3 for 8-puzzle and N=4 for 15-puzzle)
